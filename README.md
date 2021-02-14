@@ -1,4 +1,4 @@
-### hey! My name's Blake 👋
+### Hello! My name's Blake 👋
 
 I'm a developer that loves simplifying things. I love breaking down complex problems into simple, easy to understand solutions. I Currently live in Auckland looking for a remote web development role. 
 
